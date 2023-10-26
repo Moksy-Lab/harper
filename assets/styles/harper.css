@@ -16,8 +16,12 @@
     display: none
 }
 .aboutcded716dce36a6e8 .searchBtn{
-    background-color:#18B9E9 ;
+    background-color:#18B9E9;
     border-radius: 0px
+}
+.aboutcded716dce36a6e8 .DescriptionPara {
+    color: #808080;
+    font-size: 20px
 }
 /* #agni(cded716dce36a6e8) #css ends  */
 /*****agni*****/
@@ -42,8 +46,13 @@
     .frankiepo48kr6e3hi h1{
         font-size: 32px
     }
-    .frankiepo48kr6e3hi a{
-        color: #18B9E9
+    .frankiepo48kr6e3hi a {
+        color: #1f2d3d;
+        font-size: 20px;
+        font-weight: 600
+    }
+    .frankiepo48kr6e3hi a:hover {
+        color: #18B9E9;
     }
     .frankiepo48kr6e3hi h3 {
         margin-top: 10px
@@ -75,6 +84,14 @@
     }
     /* #tracey(testimonialcohi0ajeo7e) #css ends  */
 /*****tracey*****/
+
+/*****faki*****/
+/* #faki(formftfyiyue44r) #css starts */
+.formftfyiyue44r h1{
+    font-size: 32px;
+}
+/* #faki(formftfyiyue44r) #css starts */
+/*****faki*****/
 
 /*****foshka*****/
 /* #foshka(foshkaftin8f8zeg1) #css starts */
