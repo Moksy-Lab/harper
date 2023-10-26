@@ -90,6 +90,22 @@
 .formftfyiyue44r h1{
     font-size: 32px;
 }
+.formftfyiyue44r a {
+    color: #1f2d3d;
+    font-weight: 600
+}
+.formftfyiyue44r .btn-outline-secondary {
+    border-color: #18B9E9;
+    background-color: #18B9E9;
+    border-radius: 0px;
+    color: #fff;
+}
+.formftfyiyue44r .btn-outline-secondary:hover,
+.formftfyiyue44r .btn-outline-secondary:not(:disabled):not(.disabled):active{
+    color: #fff;
+    border-color: #18B9E9;
+    background-color: #18B9E9
+}
 /* #faki(formftfyiyue44r) #css starts */
 /*****faki*****/
 
@@ -98,6 +114,11 @@
 .foshkaftin8f8zeg1 .fdb-block {
     padding: 2.5rem 0
  }
+ .formftfyiyue44r .btn-outline-secondary {
+    background-color: #18B9E9;
+    border-radius: 0px;
+}
+
 /* #foshka(foshkaftin8f8zeg1) #css starts */
 /*****foshka*****/
 
